@@ -1,5 +1,9 @@
 fanspeed.sh - remove cooler buzz on DELL Inspirion
 
+before use you must install i8kutiks by command:
+sudo apt-get install i8kutils
+
+after
 script running with cron
 for add in crontab do next in terminal:
 
