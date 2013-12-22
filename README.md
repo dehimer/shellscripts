@@ -1,9 +1,11 @@
 fanspeed.sh - remove cooler buzz on DELL Inspirion
 
 before use you must install i8kutiks by command:
+
 sudo apt-get install i8kutils
 
 next for load i8k driver run:
+
 sudo modprobe -v i8k
 
 and after:
