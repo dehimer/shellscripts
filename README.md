@@ -12,7 +12,7 @@ and after:
 script running with cron
 for add in crontab do next in terminal:
 
-sudo crontab -l
+sudo crontab -e
 
 and in text editor add in the end next string:
 
