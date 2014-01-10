@@ -19,3 +19,8 @@ and in text editor add in the end next string:
 */1 * * * * sh /path/to/fanspeed.sh
 
 this make start script every minute
+
+
+if after reboot buzz is still exist, try add in crontab next string:
+
+@reboot "sudo modprobe -v i8k"
